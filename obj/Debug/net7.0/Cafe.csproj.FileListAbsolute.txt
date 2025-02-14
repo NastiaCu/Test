@@ -1,0 +1,14 @@
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/bin/Debug/net7.0/Cafe
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/bin/Debug/net7.0/Cafe.deps.json
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/bin/Debug/net7.0/Cafe.runtimeconfig.json
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/bin/Debug/net7.0/Cafe.dll
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/bin/Debug/net7.0/Cafe.pdb
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/obj/Debug/net7.0/Cafe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/obj/Debug/net7.0/Cafe.AssemblyInfoInputs.cache
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/obj/Debug/net7.0/Cafe.AssemblyInfo.cs
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/obj/Debug/net7.0/Cafe.csproj.CoreCompileInputs.cache
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/obj/Debug/net7.0/Cafe.dll
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/obj/Debug/net7.0/refint/Cafe.dll
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/obj/Debug/net7.0/Cafe.pdb
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/obj/Debug/net7.0/Cafe.genruntimeconfig.cache
+/Users/nastakuneva/Documents/Stefanini_Test/Cafe/obj/Debug/net7.0/ref/Cafe.dll
